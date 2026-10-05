@@ -53,4 +53,4 @@ API testada: https://api.restful-api.dev
 | Excluir o objeto cadastrado | DELETE | /objects/{id} | 200 e id na mensagem |
 | Buscar objeto excluído | GET | /objects/{id} | 404 |
 
-Para executar: `npm install` e `npm run ci`.
+Para executar: `npm install` e `npm run ci`..
